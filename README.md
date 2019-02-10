@@ -2,4 +2,5 @@
 
 My tryout on using Flutter and Cloud Firestore to build 1to50 game. 
 
-![img2](https://github.com/arepirpi/Flutter1to50/blob/master/Screenshot.png)
+<img src="https://github.com/arepirpi/Flutter1to50/blob/master/Screenshot.png" width="240" height="480">
+
