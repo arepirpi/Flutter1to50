@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "571325186333",
+    "firebase_url": "https://flutter-first-35930.firebaseio.com",
+    "project_id": "flutter-first-35930",
+    "storage_bucket": "flutter-first-35930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571325186333:android:326522707aaca0e6",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571325186333-vi8ln5p09hd77thv0j2urhdvdv1sdpok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6aYOxvFr0NlLTt3xNIYA0OFCc7rJcqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
